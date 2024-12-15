@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Netflix Subscription",
+        "due_date": "2024-12-18",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "Spotify Subscription",
+        "due_date": "2024-12-20",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "OpenAI Subscription",
+        "due_date": "2024-12-18",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "RBC Visa Credit Card Payment",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "CIBC Visa Credit Card Payment",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "PC Financial Mastercard Credit Card Payment",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "Capital One Mastercard Credit Card Payment",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "Car Wash Subscription",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "Phone Bill",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    },
+    {
+        "name": "Internet Bill",
+        "due_date": "2024-12-25",
+        "recurrence": "monthly"
+    }
+]
