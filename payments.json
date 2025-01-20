@@ -1,52 +1,27 @@
 [
     {
-        "name": "Netflix Subscription",
-        "due_date": "2024-12-18",
+        "name": "Subscription Name",
+        "due_date": "YYYY-MM-DD",
         "recurrence": "monthly"
     },
     {
-        "name": "Spotify Subscription",
-        "due_date": "2024-12-20",
+        "name": "Subscription Name",
+        "due_date": "YYYY-MM-DD",
         "recurrence": "monthly"
     },
     {
-        "name": "OpenAI Subscription",
-        "due_date": "2024-12-18",
+        "name": "Credit Card Payment Name",
+        "due_date": "YYYY-MM-DD",
         "recurrence": "monthly"
     },
     {
-        "name": "RBC Visa Credit Card Payment",
-        "due_date": "2024-12-25",
+        "name": "Utility Name",
+        "due_date": "YYYY-MM-DD",
         "recurrence": "monthly"
     },
     {
-        "name": "CIBC Visa Credit Card Payment",
-        "due_date": "2024-12-25",
-        "recurrence": "monthly"
-    },
-    {
-        "name": "PC Financial Mastercard Credit Card Payment",
-        "due_date": "2024-12-25",
-        "recurrence": "monthly"
-    },
-    {
-        "name": "Capital One Mastercard Credit Card Payment",
-        "due_date": "2024-12-25",
-        "recurrence": "monthly"
-    },
-    {
-        "name": "Car Wash Subscription",
-        "due_date": "2024-12-25",
-        "recurrence": "monthly"
-    },
-    {
-        "name": "Phone Bill",
-        "due_date": "2024-12-25",
-        "recurrence": "monthly"
-    },
-    {
-        "name": "Internet Bill",
-        "due_date": "2024-12-25",
+        "name": "Service Name",
+        "due_date": "YYYY-MM-DD",
         "recurrence": "monthly"
     }
 ]
